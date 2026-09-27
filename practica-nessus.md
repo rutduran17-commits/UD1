@@ -10,10 +10,21 @@
 (Cuántas vulnerabilidades por severidad — puedes usar una tabla o una lista)
 
 ## 4. Vulnerabilidades clasificadas
-(La tabla del paso 7)
+7 CLASIFICAR TRES VULNERABILIDADES
+. | Vulnerabilidad | Severidad / CVSS | Origen | Descripción |
+--|----------------|------------|------|-------|
+1 |                |               | | |
+2 |     |     |    |    | 
+3 |     |   |     |   | 
 
 ## 5. Análisis en profundidad
 (El desarrollo del paso 8: qué es, cómo se explota, cómo se mitiga, referencia)
+ vulne |    - |
+-------|------|
+Qué es |   | 
+Cómo se podría explotar |     |
+Cómo se mitigaría|   |
+Referencia |    | 
 
 ## 6. Recomendaciones
 (2-3 acciones concretas que recomendarías, ordenadas por prioridad)
